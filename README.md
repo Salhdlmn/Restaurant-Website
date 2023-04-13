@@ -1,6 +1,6 @@
 ### Restaurant Web Site Project
 
-## technologies used and purpose
+## Technologies used and Purpose
 
 A website that will be used as a dynamic, all-device compatible shopping site using HTML-CSS-JS
 I created the interface. 
